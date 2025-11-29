@@ -303,9 +303,6 @@ export default function CulturalTimeline() {
           <h1 className="text-2xl font-extrabold tracking-wide">
             महाराष्ट्र सांस्कृतिक प्लॅटफॉर्म / Cultural Platform
           </h1>
-          <p className="text-sm md:text-base font-light">
-            लोकगीत — संस्कृती — वारसा
-          </p>
         </div>
 
         <nav className="flex flex-wrap justify-center gap-5 mt-3 md:mt-0 text-base md:text-lg font-medium">
@@ -329,18 +326,6 @@ export default function CulturalTimeline() {
           </Link>
         </nav>
       </header>
-
-      
-    {/* Header */}
-    <header className="text-center py-10 px-6 bg-[#fff8f3]">
-      <h1 className="text-4xl font-extrabold text-[#222] mb-2">
-        महाराष्ट्राची सांस्कृतिक कालरेषा /
-        <span className="text-[#e36414]"> Maharashtra Cultural Timeline</span>
-      </h1>
-      <p className="text-gray-700 max-w-3xl mx-auto text-lg leading-relaxed">
-        Explore the evolution of Maharashtra’s cultural legacy.
-      </p>
-    </header>
 
     {/* Main Timeline Section */}
     <section className="relative min-h-screen py-20 px-4 bg-gradient-to-b from-orange-50 via-yellow-50 to-white overflow-hidden">

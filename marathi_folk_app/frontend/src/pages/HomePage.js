@@ -12,7 +12,7 @@ const HomePage = () => {
     title: "🎵 महाराष्ट्र सांस्कृतिक मंच",
     subtitle: "Cultural AI Platform for Maharashtra",
     aiTag: "🎶 कृत्रिम बुद्धिमत्तेचा सांस्कृतिक मंच",
-    heading: "शोधा महाराष्ट्राची",
+    heading: "शोध महाराष्ट्राची",
     paragraph:
       "कृत्रिम बुद्धिमत्तेच्या साधनांमुळे मराठी लोकगीत, परंपरा, सण आणि पाककला एकत्र आणा. महाराष्ट्राच्या वैविध्यपूर्ण संस्कृतीचे जतन आणि साजरे करण्यासाठी आमच्या समुदायात सामील व्हा.",
     readEnglish: "Read in English",
@@ -138,19 +138,19 @@ const HomePage = () => {
       <section className="bg-[#fff3e0] py-10 px-6 flex flex-wrap justify-center gap-6">
         <div className="bg-white w-40 p-5 rounded-2xl shadow text-center">
           <div className="text-3xl">🎶</div>
-          <h2 className="text-[#d32f2f] text-2xl font-bold mt-1">500+</h2>
+          <h2 className="text-[#d32f2f] text-2xl font-bold mt-1">300+</h2>
           <p className="text-gray-600">{text.stat1}</p>
         </div>
 
         <div className="bg-white w-40 p-5 rounded-2xl shadow text-center">
           <div className="text-3xl">👑</div>
-          <h2 className="text-[#d32f2f] text-2xl font-bold mt-1">1000+</h2>
+          <h2 className="text-[#d32f2f] text-2xl font-bold mt-1">100+</h2>
           <p className="text-gray-600">{text.stat2}</p>
         </div>
 
         <div className="bg-white w-40 p-5 rounded-2xl shadow text-center">
           <div className="text-3xl">🧑‍🤝‍🧑</div>
-          <h2 className="text-[#d32f2f] text-2xl font-bold mt-1">500+</h2>
+          <h2 className="text-[#d32f2f] text-2xl font-bold mt-1">50+</h2>
           <p className="text-gray-600">{text.stat3}</p>
         </div>
       </section>
